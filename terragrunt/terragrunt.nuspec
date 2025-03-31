@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>terragrunt</id>
-    <version>0.63.6</version>
+    <version>0.77.5</version>
     <packageSourceUrl>https://github.com/MrZablah/chocolatey-packages</packageSourceUrl>
     <owners>Miguel Zablah</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
